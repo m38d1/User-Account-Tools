@@ -11,4 +11,10 @@ Windows automatically generates this elevated, hidden Super Administrator accoun
    
    3- Choose any Options you need of list
    
+            1- Change Current User Account Password
+            
+            2- Create Hidden User Account
+            
+            3- Set Password User Account to : 09368781199
+             
    4- Done :)
